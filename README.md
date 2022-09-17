@@ -1,4 +1,4 @@
-# EmotionArt-Marketplace-Contract
+# ERC1155-Marketplace-Contract
 Polygon NFT Marketplace smart contract with NFT Trading and Auction
 
 ## Program Deployment
